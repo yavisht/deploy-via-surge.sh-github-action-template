@@ -9,16 +9,13 @@ A simple Github Actions template to deploy your static site using surge.sh
 
 **Step 2** Setup 3 secrets in your repository secrets tab
 
-SURGE_LOGIN -> Your Surge Username
-me@example.com
-
 SURGE_TOKEN -> Your Surge Token
 123abc123abc123abc
 
 SURGE_DOMAIN -> The domain you want to publish your site on
 https://your-surge-website-or-custom-domain.surge.sh
 
-<img width="739" alt="Screen Shot 2019-10-05 at 1 01 13 am" src="https://user-images.githubusercontent.com/6112201/66218406-75978980-e70c-11e9-99e5-d8ddc9961f27.png">
+<img width="772" alt="Screen Shot 2019-10-06 at 10 41 48 am" src="https://user-images.githubusercontent.com/6112201/66262115-f5654700-e825-11e9-8afe-98c937ee42f9.png">
 
 **Step 3**
 Add the a new Github Action in .github/workflows folder in your repo
