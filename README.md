@@ -7,7 +7,7 @@ A simple Github Actions template to deploy your static site using surge.sh
 **Step 1** Get a Deployment Token
 ![get-surge-token](https://user-images.githubusercontent.com/6112201/66218600-d8892080-e70c-11e9-8843-c2c29b4e7e9a.gif)
 
-**Step 2** Setup 3 secrets in your repository secrets tab
+**Step 2** Setup 2 secrets in your repository secrets tab
 
 SURGE_TOKEN -> Your Surge Token
 123abc123abc123abc
