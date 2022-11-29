@@ -13,7 +13,7 @@ SURGE_TOKEN -> Your Surge Token
 123abc123abc123abc
 
 SURGE_DOMAIN -> The domain you want to publish your site on
-https://your-surge-website-or-custom-domain.surge.sh
+https://test-github-action-surge.surge.sh
 
 <img width="772" alt="Screen Shot 2019-10-06 at 10 41 48 am" src="https://user-images.githubusercontent.com/6112201/66262115-f5654700-e825-11e9-8afe-98c937ee42f9.png">
 
